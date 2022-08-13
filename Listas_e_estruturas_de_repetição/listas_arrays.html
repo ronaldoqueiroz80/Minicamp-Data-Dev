@@ -20,10 +20,24 @@
         carros[3] = "Sandero";
         console.log("Último elemento do array: " + carros[carros.length - 1]);
 
+        //inserir um elemento na array
         carros[carros.length] = "Civic";
         console.log("Último elemento do array: " + carros[carros.length - 1]);
 
+        //inserir um elemento no final da array
         carros.push("Polo");
+        console.log(carros);
+
+        //remover o último elemento na array
+        console.log(carros.pop());
+        console.log(carros);
+
+        //insere um elemento no início da lista
+        carros.unshift("Jetta");
+        console.log(carros);
+
+        //remove o primeiro elemento da lista
+        carros.shift();
         console.log(carros);
     </script>
 </html>
