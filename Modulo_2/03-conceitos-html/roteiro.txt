@@ -8,9 +8,9 @@ Roteiro - conceitos-html
 (x) Inserir tag <main>
 
 () Dentro de main:
-   () Criar exemplos de <h1> até <h6>
-   () Criar exemplo de <p>
-   () Demonstrar que quebras de linha no parágrafo
+   (x) Criar exemplos de <h1> até <h6>
+   (x) Criar exemplo de <p>
+   (x) Demonstrar que quebras de linha no parágrafo
       não fazem diferença
    () Criar exemplo de <ol> <li>
    () Criar exemplo de <ul> <li>
