@@ -9,5 +9,5 @@ Roteiro - Ambiente
 (x) Instalar as extensões "Prettier", "vscode-icons", "Winter is Coming Theme" e, principalmente, "Live Server"
 (x) Inserir conteúdo do arquivo "settings.json" no VSCode
 (x) Criar pasta "projetos\01-ambiente" no Desktop
-() Criar um app HTML simples (Hello, world!) na pasta "01-ambiente" e demonstrar como o trabalho é "pouco produtivo" com os diversos "refreshes" da página
-() Demonstrar melhoria de produtividade com a utilização da extensão "Live Server"
+(x) Criar um app HTML simples (Hello, world!) na pasta "01-ambiente" e demonstrar como o trabalho é "pouco produtivo" com os diversos "refreshes" da página
+(x) Demonstrar melhoria de produtividade com a utilização da extensão "Live Server"
