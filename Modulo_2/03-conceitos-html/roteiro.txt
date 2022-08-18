@@ -1,11 +1,11 @@
 Roteiro - conceitos-html
 ========================
 
-() Clonar projeto-base
-() Trocar títulos
+(x) Clonar projeto-base
+(x) Trocar títulos
 
-() Inserir tag <header> com <h1>
-() Inserir tag <main>
+(x) Inserir tag <header> com <h1>
+(x) Inserir tag <main>
 
 () Dentro de main:
    () Criar exemplos de <h1> até <h6>
