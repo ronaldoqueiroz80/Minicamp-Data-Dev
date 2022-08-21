@@ -1,6 +1,14 @@
 function star() {
   var buttonCalculateImc = document.querySelector('#button-calculate-imc');
   buttonCalculateImc.addEventListener('click', handleButtonClick);
+
+  var inputWeight = document.querySelector('#input-weight');
+  var inputHeight = document.querySelector('#input-height');
+
+  inputWeight.addEventListener('input', handleButtonClick);
+  inputHeight.addEventListener('input', handleButtonClick);
+
+  handleButtonClick();
 }
 
 function calculaterImc(weight, height) {
@@ -8,6 +16,16 @@ function calculaterImc(weight, height) {
 }
 
 function handleButtonClick() {
-  console.log('Cliquei');
+  var inputWeight = document.querySelector('#input-weight');
+  var inputHeight = document.querySelector('#input-height');
+  var imcResult = document.querySelector('#imc-result');
+
+  var weight = Number(inputWeight.value);
+  var height = Number(inputHeight.value);
+
+  var imc = calculaterImc(weight, height);
+  var formattedImc = imc.toFixed(2).replace('.', ',');
+
+  imcResult.textContent = formattedImc;
 }
 star();
