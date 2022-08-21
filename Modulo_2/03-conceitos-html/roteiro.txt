@@ -26,5 +26,5 @@ Roteiro - conceitos-html
    (x) Criar diversos exemplos da tag <a> 
       (âncora, link interno e link externo)
 
-   () Criar exemplo com <button>
-   () Criar exemplo com <input type="text" />  
+   (x) Criar exemplo com <button>
+   (x) Criar exemplo com <input type="text" />  
