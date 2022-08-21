@@ -20,10 +20,10 @@ Roteiro - conceitos-html
    (x) Criar exemplo com <img />
    (x) Envolver <img /> em <figure>
 
-   () Criar exemplo com <div> em <p>
-   () Criar exemplo com <span>'s em <p>
+   (x) Criar exemplo com <div> em <p>
+   (x) Criar exemplo com <span>'s em <p>
 
-   () Criar diversos exemplos da tag <a> 
+   (x) Criar diversos exemplos da tag <a> 
       (âncora, link interno e link externo)
 
    () Criar exemplo com <button>
