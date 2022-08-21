@@ -17,8 +17,8 @@ Roteiro - conceitos-html
    (x) Criar exemplo com <table>, <caption>, <thead>,
       <tbody>, <tfoot>, <tr>, <th> e <td>
 
-   () Criar exemplo com <img />
-   () Envolver <img /> em <figure>
+   (x) Criar exemplo com <img />
+   (x) Envolver <img /> em <figure>
 
    () Criar exemplo com <div> em <p>
    () Criar exemplo com <span>'s em <p>
